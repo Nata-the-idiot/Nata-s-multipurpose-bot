@@ -1,6 +1,5 @@
 #All the libraries we need for the program to work 
 from codecs import namereplace_errors
-import random
 from tkinter import N
 from nextcord import Interaction
 import nextcord
